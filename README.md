@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-![Uploading Ekran görüntüsü 2023-10-31 235638.png…]()
+![Ekran görüntüsü 2023-10-31 235638](https://github.com/alperenilgaz/Coffe-Shop-react/assets/97908293/46dcfca9-d084-4853-a933-889625b86727)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
